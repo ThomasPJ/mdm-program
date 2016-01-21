@@ -2,6 +2,7 @@ var gulp = require("gulp")
   , jade = require("gulp-jade")
   , stylus = require("gulp-stylus")
   , cssmin = require("gulp-cssmin")
+  , ghPages = require('gulp-gh-pages')
   , autoprefixer = require("gulp-autoprefixer")
 
   , i18n = require("./i18n")
@@ -50,3 +51,8 @@ gulp.task("watch", function(){
 })
 
 gulp.task("default", ["assets", "markup", "styles", "icons", "images"])
+
+gulp.task('deploy', function() {
+  return gulp.src('./dist/**/*')
+    .pipe(ghPages());
+});
