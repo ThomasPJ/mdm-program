@@ -1,32 +1,33 @@
 [
   {
     "name" : "Portfolio",
-    "link" : "",
-    "description" : "Samples of Work - 2014 to 2016"
+    "link" : "portfolio/12.pdf",
+    "description" : "Samples of Work - 2014 to 2016.",
+    "additionalcomments" : "Please download for a better viewing experience. NB: It might take some time to load."
   },
   {
-    "name" : "Additional documents for my portfolio",
+    "name" : "Additional documents",
     "link" : "",
-    "description" : "Proposals, quotations, plannings..."
+    "description" : "Appendices for my portfolio and other documents."
   },
   {
     "name" : "Resume",
     "link" : "",
-    "description" : "A brief summary of educational and professional background"
+    "description" : "A brief summary of educational and professional background."
   },
   {
     "name" : "Letter of intent",
     "link" : "",
-    "description" : "A letter explaining my motivation for selecting this program"
+    "description" : "A letter explaining my motivation for selecting this program."
   },
   {
     "name" : "Short formal essay",
     "link" : "",
-    "description" : "A short essay on Web Performance Optimisation (WPO), a topic I am passionate about"
+    "description" : "A short essay on Web Performance Optimisation (WPO), a topic I am passionate about."
   },
   {
     "name" : "References",
-    "link" : "",
-    "description" : "Two references from past employers (Altima & Adveris), and one reference from my university tutor"
+    "link" : "references/thomaspetitjean-references.zip",
+    "description" : "Two references from past employers (Altima & Adveris), and one reference from my university tutor."
   }
 ]

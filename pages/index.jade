@@ -11,7 +11,9 @@ append right-col
   ul.Projects
     -each project in projects
       li.Project
-        a.Project-title(href="https://github.com/#{project.link}")
+        a.Project-title(href="http://thomaspj.github.io/mdm-program/assets/#{project.link}")
           | #{project.name}
         p.Project-description
           | #{project.description}
+        p.Additional-comments
+          | #{project.additionalcomments}

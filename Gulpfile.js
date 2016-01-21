@@ -16,7 +16,7 @@ var gulp = require("gulp")
     }
 
 gulp.task("assets", function() {
-  return gulp.src("assets/**.pdf")
+  return gulp.src("assets/**/*")
     .pipe(gulp.dest("dist/assets"))
 })
 
