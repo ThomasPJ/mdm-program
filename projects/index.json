@@ -2,26 +2,31 @@
   {
     "name" : "Portfolio",
     "link" : "",
-    "description" : "description"
+    "description" : "Samples of Work - 2014 to 2016"
+  },
+  {
+    "name" : "Additional documents for my portfolio",
+    "link" : "",
+    "description" : "Proposals, quotations, plannings..."
   },
   {
     "name" : "Resume",
     "link" : "",
-    "description" : "description"
+    "description" : "A brief summary of educational and professional background"
   },
   {
     "name" : "Letter of intent",
     "link" : "",
-    "description" : "description"
+    "description" : "A letter explaining my motivation for selecting this program"
   },
   {
     "name" : "Short formal essay",
     "link" : "",
-    "description" : "description"
+    "description" : "A short essay on Web Performance Optimisation (WPO), a topic I am passionate about"
   },
   {
     "name" : "References",
     "link" : "",
-    "description" : "description"
+    "description" : "Two references from past employers (Altima & Adveris), and one reference from my university tutor"
   }
 ]
