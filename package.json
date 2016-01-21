@@ -1,0 +1,16 @@
+{
+  "name": "MDM Programme",
+  "version": "0.0.0",
+  "description": "",
+  "main": "Gulpfile.js",
+  "author": "ThomasPJ",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.5.5",
+    "gulp-stylus": "0.0.14",
+    "gulp-jade": "^0.4.2",
+    "gulp-autoprefixer": "0.0.6",
+    "gulp-concat": "^2.1.7",
+    "gulp-cssmin": "^0.1.3"
+  }
+}

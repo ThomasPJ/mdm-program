@@ -1,0 +1,16 @@
+extends ../layouts/main
+
+append head
+  title #{i18n.title}
+  meta(name="description", content="#{i18n.meta_description}")
+
+append right-col
+  h1.Title #{i18n.title}
+  h2.Sub-Title #{i18n.subtitle}
+  ul.Projects
+    -each project in projects
+      li.Project
+        a.Project-title(href="https://github.com/#{project.link}")
+          | #{project.name}
+        p.Project-description
+          | #{project.description}
