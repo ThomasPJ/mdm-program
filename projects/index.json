@@ -1,7 +1,7 @@
 [
   {
     "name" : "Portfolio",
-    "link" : "portfolio/12.pdf",
+    "link" : "",
     "description" : "Samples of Work - 2014 to 2016.",
     "additionalcomments" : "Please download the file for a better viewing experience. NB: It might take some time to load."
   },
@@ -32,7 +32,7 @@
   },
   {
     "name" : "References",
-    "link" : "references/thomaspetitjean-references.zip",
+    "link" : "",
     "description" : "Two references from past employers (Altima & Adveris), and one reference from my university tutor."
   }
 ]
