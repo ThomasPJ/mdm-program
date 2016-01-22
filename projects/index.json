@@ -3,17 +3,22 @@
     "name" : "Portfolio",
     "link" : "portfolio/12.pdf",
     "description" : "Samples of Work - 2014 to 2016.",
-    "additionalcomments" : "Please download for a better viewing experience. NB: It might take some time to load."
+    "additionalcomments" : "Please download the file for a better viewing experience. NB: It might take some time to load."
   },
   {
-    "name" : "Additional documents",
+    "name" : "Portfolio appendices",
     "link" : "",
     "description" : "Appendices for my portfolio and other documents."
   },
   {
+    "name" : "University work",
+    "link" : "",
+    "description" : "A business plan (group work) & an essay on strategic management at Yahoo (individual essay)"
+  },
+  {
     "name" : "Resume",
     "link" : "",
-    "description" : "A brief summary of educational and professional background."
+    "description" : "A brief summary of my educational and professional background."
   },
   {
     "name" : "Letter of intent",
