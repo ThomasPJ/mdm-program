@@ -1,5 +1,11 @@
 [
   {
+    "name" : "Portfolio summary",
+    "link" : "",
+    "description" : "Short summary",
+    "additionalcomments" : "..."
+  },
+  {
     "name" : "Portfolio",
     "link" : "",
     "description" : "Samples of Work - 2014 to 2016.",
