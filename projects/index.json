@@ -1,27 +1,5 @@
 [
   {
-    "name" : "Portfolio summary",
-    "link" : "",
-    "description" : "Short summary",
-    "additionalcomments" : "Introduction to the various projects I present through my portfolio"
-  },
-  {
-    "name" : "Portfolio",
-    "link" : "",
-    "description" : "Samples of Work - 2014 to 2016.",
-    "additionalcomments" : "Please download the file for a better viewing experience. NB: It might take some time to load."
-  },
-  {
-    "name" : "Portfolio appendices",
-    "link" : "",
-    "description" : "Appendices to my portfolio."
-  },
-  {
-    "name" : "University work",
-    "link" : "",
-    "description" : "A business plan (group work) & an essay on Strategic Management at Yahoo! (individual essay)"
-  },
-  {
     "name" : "Resume",
     "link" : "",
     "description" : "A brief summary of my educational and professional backgrounds."
@@ -32,6 +10,21 @@
     "description" : "A letter explaining my motivation for selecting this program."
   },
   {
+    "name" : "Portfolio summary",
+    "link" : "",
+    "description" : "Introduction to the various projects I present in my portfolio."
+  },
+  {
+    "name" : "Portfolio",
+    "link" : "",
+    "description" : "Samples of Work - 2014 to 2016."
+  },
+  {
+    "name" : "Portfolio appendices",
+    "link" : "",
+    "description" : "Appendices to my portfolio."
+  },
+  {
     "name" : "Short formal essay",
     "link" : "",
     "description" : "A short essay on Web Performance Optimisation (WPO), a topic I am interesting in."
@@ -40,5 +33,10 @@
     "name" : "References",
     "link" : "",
     "description" : "Two references from past employers (Altima & Adveris), and one reference from my university tutor."
+  },
+  {
+    "name" : "University work",
+    "link" : "",
+    "description" : "A business plan (group work) & an essay on Strategic Management at Yahoo! (individual essay)."
   }
 ]
