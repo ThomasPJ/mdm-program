@@ -3,7 +3,7 @@
     "name" : "Portfolio summary",
     "link" : "",
     "description" : "Short summary",
-    "additionalcomments" : "..."
+    "additionalcomments" : "Introduction to the various projects I present through my portfolio"
   },
   {
     "name" : "Portfolio",
@@ -14,17 +14,17 @@
   {
     "name" : "Portfolio appendices",
     "link" : "",
-    "description" : "Appendices for my portfolio and other documents."
+    "description" : "Appendices to my portfolio."
   },
   {
     "name" : "University work",
     "link" : "",
-    "description" : "A business plan (group work) & an essay on strategic management at Yahoo (individual essay)"
+    "description" : "A business plan (group work) & an essay on Strategic Management at Yahoo! (individual essay)"
   },
   {
     "name" : "Resume",
     "link" : "",
-    "description" : "A brief summary of my educational and professional background."
+    "description" : "A brief summary of my educational and professional backgrounds."
   },
   {
     "name" : "Letter of intent",
@@ -34,7 +34,7 @@
   {
     "name" : "Short formal essay",
     "link" : "",
-    "description" : "A short essay on Web Performance Optimisation (WPO), a topic I am passionate about."
+    "description" : "A short essay on Web Performance Optimisation (WPO), a topic I am interesting in."
   },
   {
     "name" : "References",
