@@ -1,42 +1,42 @@
 [
   {
     "name" : "Resume",
-    "link" : "",
+    "link" : "resume/thomaspetitjean-resume.zip",
     "description" : "A brief summary of my educational and professional backgrounds."
   },
   {
     "name" : "Letter of intent",
-    "link" : "",
+    "link" : "letter-of-intent/thomaspetitjean-letter-of-intent.zip",
     "description" : "A letter explaining my motivation for selecting this program."
   },
   {
     "name" : "Portfolio summary",
-    "link" : "",
+    "link" : "portfolio-summary/thomaspetitjean-portfolio-summary.zip",
     "description" : "Introduction to the various projects I present in my portfolio."
   },
   {
     "name" : "Portfolio",
-    "link" : "",
+    "link" : "portfolio/thomaspetitjean-portfolio.zip",
     "description" : "Samples of Work - 2014 to 2016."
   },
   {
     "name" : "Portfolio appendices",
-    "link" : "",
+    "link" : "portfolio/portfolio-appendices.zip",
     "description" : "Appendices to my portfolio."
   },
   {
     "name" : "Short formal essay",
-    "link" : "",
+    "link" : "essay/thomaspetitjean-wpo-essay.zip",
     "description" : "A short essay on Web Performance Optimisation (WPO), a topic I am very interesting in."
   },
   {
     "name" : "References",
-    "link" : "",
+    "link" : "references/thomaspetitjean-references.zip",
     "description" : "Two references from past employers (Altima & Adveris), and one reference from my university tutor."
   },
   {
     "name" : "University work",
-    "link" : "",
+    "link" : "university-work/thomaspetitjean-university-work.zip",
     "description" : "A business plan (group work) & an essay on Strategic Management at Yahoo! (individual essay)."
   }
 ]
