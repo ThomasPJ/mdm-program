@@ -25,6 +25,11 @@
     "description" : "Appendices to my portfolio."
   },
   {
+    "name" : "Epsilog - 2016 project",
+    "link" : "",
+    "description" : "This is a proposal I drafted and presented to Epsilog earlier this year. The client agreed to follow the process I suggested."
+  },
+  {
     "name" : "Short formal essay",
     "link" : "essay/thomaspetitjean-wpo-essay.zip",
     "description" : "A short essay on Web Performance Optimisation (WPO), a topic I am very interesting in."
